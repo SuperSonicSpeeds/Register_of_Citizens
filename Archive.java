@@ -38,9 +38,9 @@ public class Archive {
             if(choice.equals("1")) {
                 System.out.println("There are " + this.size + " inhabitants currently in WE.");
             } else {
-                System.out.println("Ask sensibly or begone, I'm a busy ancient artifact.")
+                System.out.println("Ask sensibly or begone, I'm a busy ancient artifact.");
             }
-        System.out.println("Until next time, questioner.")
+        System.out.println("Until next time, questioner.");
         }
     }
 }
