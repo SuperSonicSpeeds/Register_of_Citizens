@@ -1,1 +1,2 @@
-# Register_of_Citizens
+Welcome to the Mage Book interface!
+
