@@ -1,21 +1,21 @@
-Albus Potter, Harry Potter, active 
-Alexander Lightwood, Shadowhunters, active
-Arthur Pendragon, Merlin, active
-Bucky Barnes, MCU, active
-Harley Keener, MCU, active
-Isabelle Lightwood, Shadowhunters, active 
-Leta Lestrange, Harry Potter, active 
-Lorcan Scamander, Harry Potter, active  
-Lysander Scamander, Harry Potter, active
-Magnus Bane, Shadowhunters, active
-Merlin, Merlin, active
-Mordred, Merlin, active
-Newt Scamander, Harry Potter, active  
-Nico di Angelo, PJO, active 
-Pepper Potts, MCU, active 
-Peter Parker, MCU, active 
-Rue, THG, active 
-Tandy Bowen, MCU, active 
-Theseus Scamander, Harry Potter, active 
-Tony Stark, MCU, active 
+Albus Potter, Harry Potter, Canon, active
+Alexander Lightwood, Shadowhunters, Canon, active
+Arthur Pendragon, Merlin, Canon, active
+Bucky Barnes, MCU, Canon, active
+Harley Keener, MCU, Canon, active
+Isabelle Lightwood, Shadowhunters, Canon, active
+Leta Lestrange, Harry Potter, Canon, active
+Lorcan Scamander, Harry Potter, Canon, active
+Lysander Scamander, Harry Potter, Canon, active
+Magnus Bane, Shadowhunters, Canon, active
+Merlin, Merlin, Canon, active
+Mordred, Merlin, Canon, active
+Newt Scamander, Harry Potter, Canon, active
+Nico di Angelo, PJO, Canon, active
+Pepper Potts, MCU, Canon, active
+Peter Parker, MCU, Canon, active
+Rue, THG, Canon, active
+Tandy Bowen, MCU, Canon, active
+Theseus Scamander, Harry Potter, Canon, active
+Tony Stark, MCU, Canon, active
 
