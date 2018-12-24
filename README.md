@@ -7,8 +7,11 @@ What it does/has:
 -Lists all people in the world currently.
 
 -Checks if a person is registered in the database(active and inative both).
+
 -Prints out information about requested character: Name + fandom + what type of character they are.
+
 -Catches invalid requests and repeats question.
+
 -Easter egg question on life.
 
 Features to add eventually:
