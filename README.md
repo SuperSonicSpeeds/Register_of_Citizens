@@ -14,9 +14,15 @@ What it does/has:
 
 -Easter egg question on life.
 
+
 Features to add eventually:
+
 -Tell when a character first arrived.
+
 -Sims/children as subclass of people and so they can be linked to parents. (Interface?)
+
 -Add more easter eggs!
+
 -Find out if/when/how many times a requested character has been in the world before.
+
 -Tell how many days it has been since an active character arrived.
