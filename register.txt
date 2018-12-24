@@ -5,6 +5,7 @@ Bucky Barnes, MCU, Canon, active
 Harley Keener, MCU, Canon, active
 Isabelle Lightwood, Shadowhunters, Canon, active
 Leta Lestrange, Harry Potter, Canon, active
+Lily Potter, Harry Potter, Canon, active
 Lorcan Scamander, Harry Potter, Canon, active
 Lysander Scamander, Harry Potter, Canon, active
 Magnus Bane, Shadowhunters, Canon, active
@@ -14,7 +15,9 @@ Newt Scamander, Harry Potter, Canon, active
 Nico di Angelo, PJO, Canon, active
 Pepper Potts, MCU, Canon, active
 Peter Parker, MCU, Canon, active
+Primrose Everdeen, THG, Canon, active
 Rue, THG, Canon, active
 Tandy Bowen, MCU, Canon, active
 Theseus Scamander, Harry Potter, Canon, active
 Tony Stark, MCU, Canon, active
+
