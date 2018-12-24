@@ -3,6 +3,7 @@ Welcome to the Mage Book interface!
 What it does/has: 
 
 -Gives number of how many people are in WE.
+
 -Lists all people in the world currently.
 
 -Checks if a person is registered in the database(active and inative both).
