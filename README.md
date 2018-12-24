@@ -2,9 +2,11 @@ Welcome to the Mage Book interface!
 
 What it does/has: 
 
-1)Gives number of how many people are in WE.
-2)Lists all people in the world currently.
-3)Checks if a person is registered in the database(active and inative both).
+-Gives number of how many people are in WE.
+
+-Lists all people in the world currently.
+
+-Checks if a person is registered in the database(active and inative both).
 -Prints out information about requested character: Name + fandom + what type of character they are.
 -Catches invalid requests and repeats question.
 -Easter egg question on life.
