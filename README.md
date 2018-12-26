@@ -12,7 +12,7 @@ What it does/has:
 
 -Catches invalid requests and repeats question.
 
--Easter egg question on life.
+-Easter egg!
 
 
 Features to add eventually:
