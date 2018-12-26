@@ -48,7 +48,7 @@ public class Archive {
             
             choice = sc.nextLine();
             if(choice.equals("1")) {
-                System.out.println("\nThere are " + this.inhabitants + " inhabitants currently in World's End.");
+                System.out.println("\nThere are " + this.inhabitants + " inhabitants currently in Worlds End.");
             }else if(choice.equals("2")) {
                 System.out.println("\nThey are:");
                 for(Person p: active) {
