@@ -2,10 +2,13 @@ Albus Potter - HP - Canon - active - 2018,12,26
 Alexander Lightwood - SH - Canon - active - 2018,12,26
 Arthur Pendragon - Merlin - Canon - active - 2018,12,26
 Bucky Barnes - MCU - Canon - active - 2018,12,26
+Drew Tanaka - HoO - MC - active - 2018,12,26
+Elisa Rosewood - THG - CMC - active - 2018,12,26
 Harley Keener - MCU - MC - active - 2018,12,26
 Isabelle Lightwood - SH - Canon - active - 2018,12,26
+James Potter II - HP - MC - active - 2018,12,26
 Leta Lestrange - HP - Canon - active - 2018,12,26
-Lily Potter - HP - CMC - active - 2018,12,26
+Lily Potter II - HP - CMC - active - 2018,12,26
 Lorcan Scamander - HP - CMC - active - 2018,12,26
 Lysander Scamander - HP - CMC - active - 2018,12,26
 Magnus Bane - SH - Canon - active - 2018,12,26
@@ -14,6 +17,7 @@ Mordred - Merlin - Canon - active - 2018,12,26
 Morgana Pendragon - Merlin - Canon - active - 2018,12,26
 Newt Scamander - HP - Canon - active - 2018,12,26
 Nico di Angelo - PJO - Canon - active - 2018,12,26
+Nita Daaé - THG - OC - active - 2018,12,26
 Pepper Potts - MCU - Canon - active - 2018,12,26
 Peter Parker - MCU - Canon - active - 2018,12,26
 Primrose Everdeen - THG - Canon - active - 2018,12,26
