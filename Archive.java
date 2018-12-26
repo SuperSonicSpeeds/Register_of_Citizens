@@ -20,11 +20,16 @@ public class Archive {
         String line = "";
         line = sc.nextLine();
         while(sc.hasNextLine()) {
-            String info[] = line.split(", ");
+            String info[] = line.split(" - ");
             Person P = new Person(info[0], info[1], info[2]);
             if(info[3].equalsIgnoreCase("active")) {
                 P.setStatus();
                 active.add(P);
+
+                int y = Integer.parseInt(info[4].split(",")[0]);
+                int m = Integer.parseInt(info[4].split(",")[1]);
+                int d = Integer.parseInt(info[4].split(",")[2]);
+                P.setPeriod(y, m, d);
             }else {
                 inactive.add(P);
             }
@@ -48,7 +53,7 @@ public class Archive {
             
             choice = sc.nextLine();
             if(choice.equals("1")) {
-                System.out.println("\nThere are " + this.inhabitants + " inhabitants currently in Worlds End.");
+                System.out.println("\nThere are " + this.inhabitants + " inhabitants currently in Worlds' End.");
             }else if(choice.equals("2")) {
                 System.out.println("\nThey are:");
                 for(Person p: active) {

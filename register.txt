@@ -1,23 +1,24 @@
-Albus Potter, Harry Potter, Canon, active
-Alexander Lightwood, Shadowhunters, Canon, active
-Arthur Pendragon, Merlin, Canon, active
-Bucky Barnes, MCU, Canon, active
-Harley Keener, MCU, Canon, active
-Isabelle Lightwood, Shadowhunters, Canon, active
-Leta Lestrange, Harry Potter, Canon, active
-Lily Potter, Harry Potter, Canon, active
-Lorcan Scamander, Harry Potter, Canon, active
-Lysander Scamander, Harry Potter, Canon, active
-Magnus Bane, Shadowhunters, Canon, active
-Merlin, Merlin, Canon, active
-Mordred, Merlin, Canon, active
-Newt Scamander, Harry Potter, Canon, active
-Nico di Angelo, PJO, Canon, active
-Pepper Potts, MCU, Canon, active
-Peter Parker, MCU, Canon, active
-Primrose Everdeen, THG, Canon, active
-Rue, THG, Canon, active
-Tandy Bowen, MCU, Canon, active
-Theseus Scamander, Harry Potter, Canon, active
-Tony Stark, MCU, Canon, active
+Albus Potter - HP - Canon - active - 2018,12,26
+Alexander Lightwood - SH - Canon - active - 2018,12,26
+Arthur Pendragon - Merlin - Canon - active - 2018,12,26
+Bucky Barnes - MCU - Canon - active - 2018,12,26
+Harley Keener - MCU - MC - active - 2018,12,26
+Isabelle Lightwood - SH - Canon - active - 2018,12,26
+Leta Lestrange - HP - Canon - active - 2018,12,26
+Lily Potter - HP - CMC - active - 2018,12,26
+Lorcan Scamander - HP - CMC - active - 2018,12,26
+Lysander Scamander - HP - CMC - active - 2018,12,26
+Magnus Bane - SH - Canon - active - 2018,12,26
+Merlin - Merlin - Canon - active - 2018,12,26
+Mordred - Merlin - Canon - active - 2018,12,26
+Morgana Pendragon - Merlin - Canon - active - 2018,12,26
+Newt Scamander - HP - Canon - active - 2018,12,26
+Nico di Angelo - PJO - Canon - active - 2018,12,26
+Pepper Potts - MCU - Canon - active - 2018,12,26
+Peter Parker - MCU - Canon - active - 2018,12,26
+Primrose Everdeen - THG - Canon - active - 2018,12,26
+Rue - THG - Canon - active - 2018,12,26
+Tandy Bowen - MCU - Canon - active - 2018,12,26
+Theseus Scamander - HP - Canon - active - 2018,12,26
+Tony Stark - MCU - Canon - active - 2018,12,26
 
