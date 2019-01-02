@@ -68,20 +68,27 @@ public class Person {
     
     public String getInformation() {
         if(this.active == false) {
-            return this.name + " is a " + this.type + " character from " + this.fandom + " and is not currently in the world.";
+            return this.name + " is a " + this.type + " character from " + this.fandom + " and is not currently in the world. \nPress '2' to go back.\n";
         }else {
-            return this.name + " is a " + this.type + " character from " + this.fandom +  " and is currently in the world. Do you want to know more?";
+            return this.name + " is a " + this.type + " character from " + this.fandom +  " and is currently in the world. Do you want to know more? \n 1: Yes. \n 2: No. \n";
         }
     }
         
     public void setPeriod(int y, int m, int d) {
         start = LocalDate.of(y, m, d);
-        p = Period.between(today, start);
+        p = Period.between(start, today);
     }
     
-    public void getPeriod() {
-        System.out.println(this.name + " has been in Worlds' End " + p.getYears() + " years, " + p.getMonths() + " months and " + p.getDays() + " days.");
-        //if(p.getYears())
+    public void getPeriod() {        
+        if(p.getYears() == 0 && p.getMonths() == 0 && p.getDays() == 0) {
+            System.out.println("This is " + this.name + "'s first day in Worlds' End.");
+        }else if(p.getYears() == 0 && p.getMonths() == 0) {
+            System.out.println(this.name + " has been in Worlds' End " + p.getDays() + " days.");
+        }else if(p.getYears() == 0) {
+            System.out.println(this.name + " has been in Worlds' End " + p.getMonths() + " months and " + p.getDays() + " days.");
+        }else {
+            System.out.println(this.name + " has been in Worlds' End " + p.getYears() + " years, " + p.getMonths() + " months and " + p.getDays() + " days.");
+        }
     }
     
 }

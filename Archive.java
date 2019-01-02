@@ -67,9 +67,13 @@ public class Archive {
             }else if(choice.equalsIgnoreCase("What is the meaning of life?") || choice.equalsIgnoreCase("What's the meaning of life?")) {
                 System.out.println("The answer to the Great Question of Life, the Universe, and Everything is... forty-two.");
             }else {
-                System.out.println("\nAsk sensibly or begone, I'm a busy ancient artifact.");
+                sassy();
             }
         }       
+    }
+    
+    public void sassy() {
+        System.out.println("\nAsk sensibly or begone, I'm a busy ancient artifact.");
     }
     
     public void search(String s) {
@@ -90,12 +94,16 @@ public class Archive {
             while(!(choice.equals("2"))) {
                 Scanner scan = new Scanner(System.in);
                 if(choice.equals("1")) {
-                    System.out.println(matches.get(0).getInformation());
+                    System.out.println("\n" + matches.get(0).getInformation());
+                    String more = scan.nextLine();
+                    if(more.equals("1")) {
+                        matches.get(0).getPeriod();
+                    }
                     break;
                 } else if(choice.equals("2")) {
                     System.out.println("Very well.");
                 } else {
-                    System.out.println("\nAsk sensibly or begone, I'm a busy ancient artifact.");
+                    sassy();
                     break;
                 }
             }
