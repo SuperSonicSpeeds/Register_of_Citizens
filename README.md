@@ -14,6 +14,8 @@ What it does/has:
 
 -Easter egg!
 
+-Tell how many days it has been since an active character arrived.
+
 
 Features to add eventually:
 
@@ -25,4 +27,3 @@ Features to add eventually:
 
 -Find out if/when/how many times a requested character has been in the world before.
 
--Tell how many days it has been since an active character arrived.
