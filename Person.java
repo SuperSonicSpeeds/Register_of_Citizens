@@ -4,12 +4,13 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 
 public class Person {
-    private String name;
-    private String fandom;
+    public String name;
+    public String fandom;
     private boolean active = false;
     private int arrival;
     private String type;
     private int period;
+    public String human;
     private ArrayList<String> Owners = new ArrayList<>();
     
     LocalDate today = LocalDate.now();
@@ -50,6 +51,12 @@ public class Person {
         }
     }
     
+    public Person(String n, String f, String h, int a) {
+        this.name = n;
+        this.fandom = f;
+        this.human = h;
+    }
+    
     public String getName() {
         return this.name;
     }
@@ -76,7 +83,7 @@ public class Person {
     
     public String getInformation() {
         if(this.active == false) {
-            return this.name + " is a " + this.type + " character from " + this.fandom + " and is not currently in the world. \nPress '2' to go back.\n";
+            return this.name + " is a " + this.type + " character from " + this.fandom + " and is currently not in the world. \nPress '2' to go back.\n";
         }else {
             return this.name + " is a " + this.type + " character from " + this.fandom +  " and is currently in the world. Do you want to know more? \n 1: Yes. \n 2: No. \n";
         }
