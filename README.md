@@ -16,6 +16,8 @@ What it does/has:
 
 -Tell how many days it has been since an active character arrived.
 
+-Now with a reservation list!
+
 
 Features to add eventually:
 
