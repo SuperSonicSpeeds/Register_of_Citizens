@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.time.Period;
 import java.time.LocalDate;
+import java.util.ArrayList;
 
 public class Person {
     private String name;
@@ -9,10 +10,13 @@ public class Person {
     private int arrival;
     private String type;
     private int period;
+    private ArrayList<String> Owners = new ArrayList<>();
     
     LocalDate today = LocalDate.now();
     LocalDate start;
     Period p;
+    
+   
     
     public Person(String n, String f, String t) {
         this.name = n;
@@ -58,8 +62,12 @@ public class Person {
         return this.type;
     }
     
-    public void setStatus() {
+    public void setStatusA() {
         this.active = true;
+    }
+    
+    public void setStatusI() {
+        this.active = false;
     }
     
     public boolean getStatus() {
@@ -89,6 +97,10 @@ public class Person {
         }else {
             System.out.println(this.name + " has been in Worlds' End " + p.getYears() + " years, " + p.getMonths() + " months and " + p.getDays() + " days.");
         }
+    }
+    
+    public void setOwners() {
+        
     }
     
 }

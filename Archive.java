@@ -17,13 +17,12 @@ public class Archive {
     public void createArchive(String filename) throws Exception {
         File file = new File(filename);
         Scanner sc = new Scanner(file);
-        String line = "";
-        line = sc.nextLine();
+        String line = sc.nextLine();
         while(sc.hasNextLine()) {
             String info[] = line.split(" - ");
             Person P = new Person(info[0], info[1], info[2]);
             if(info[3].equalsIgnoreCase("active")) {
-                P.setStatus();
+                P.setStatusA();
                 active.add(P);
 
                 int y = Integer.parseInt(info[4].split(",")[0]);
@@ -31,6 +30,7 @@ public class Archive {
                 int d = Integer.parseInt(info[4].split(",")[2]);
                 P.setPeriod(y, m, d);
             }else {
+                P.setStatusI();
                 inactive.add(P);
             }
             archive.add(P);
@@ -38,7 +38,13 @@ public class Archive {
         }
         this.size = archive.size();  
         this.inhabitants = active.size();      
-    }     
+    }    
+    
+    public void owners(String filename) throws Exception {
+        File file = new File(filename);
+        Scanner sc = new Scanner(file);
+        String line = sc.nextLine();
+    } 
     
     public void menu() {
         Scanner sc = new Scanner(System.in);
