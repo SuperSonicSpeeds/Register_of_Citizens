@@ -1,40 +1,63 @@
-Albus Potter - HP - Canon - inactive - 2018,12,26
 Alexander Lightwood - SH - Canon - active - 2018,12,26
 Annabeth Chase - PJO - Canon - inactive
+Annie Cresta - THG - MC - inactive
 Arthur Pendragon - Merlin - Canon - active - 2018,12,26
 Athena - PJO - Canon - active - 2019,1,2
+Ava Starr - Canon - active - 2019,1,5
 Bucky Barnes - MCU - Canon - active - 2018,12,26
-Drew Tanaka - HoO - MC - inactive - 2018,12,26
+Cerdan - Merlin - MC - active - 2019,1,3
+Clary Fray - SH - Canon - active - 2019,1,7
+Clove - THG - Canon - active - 2019,1,2
 Elisa Rosewood - THG - CMC - active - 2018,12,26
+Elizabetha Russo - SH - OC - active - 2019,1,17
 Freya - Merlin - MC - active - 2019,1,2
-Gamora - MCU - Canon - acive - 2018,12,26
+Gamora - MCU - Canon - active - 2018,12,26
+Gwen - Merlin - Canon - active - 2019,1,3
 Harley Keener - MCU - MC - active - 2018,12,26
+Hazel Levesque - PJO - Canon - active - 2019,1,11
+Hestia - PJO - MC - inactive
 Isabelle Lightwood - SH - Canon - active - 2018,12,26
-James Potter II - HP - MC - inactive - 2018,12,26
+Jace Herondale - SH - Canon - active - 2019,1,21
+Jessica Jones - MCU - Canon - inactive
+Kara - Merlin - Canon - active - 2019,1,7
+Katniss Everdeen - Canon - active - 2019,1,19
+Lancelot - Merlin - Canon - inactive
 Leta Lestrange - HP - Canon - active - 2018,12,26
 Lily Potter II - HP - CMC - active - 2018,12,26
-Lorcan Scamander - HP - CMC - inactive - 2018,12,26
-Lucy Weasley - HP - CMC - inactive - 2019,1,2
-Lysander Scamander - HP - CMC - inactive - 2018,12,26
+Loki - MCU - Canon - inactive
+Lorcan Scamander - HP - CMC - inactive 
+Lucy Weasley - HP - CMC - inactive 
+Luna Lovegood - HP - Canon - active - 2019,1,5
+Lysander Scamander - HP - CMC - active - 2019,1,21
 Magnus Bane - SH - Canon - active - 2018,12,26
 Maia Roberts - SH - Canon - active - 2019,1,2
+Marvel - THG - MC - inactive
 Merlin - Merlin - Canon - active - 2018,12,26
 Michelle Jones - MCU - Canon - active - 2019,1,2
 Mordred - Merlin - Canon - active - 2018,12,26
 Morgana Pendragon - Merlin - Canon - active - 2018,12,26
 Ned Leeds, MCU - Canon - active - 2018,12,30
 Newt Scamander - HP - Canon - active - 2018,12,26
-Nico di Angelo - PJO - Canon - inactive - 2018,12,26
+Nico di Angelo - PJO - Canon - active - 2019,1,11
+Nikita Moneiro - SH - OC - active - 2019,1,13
 Nita Daaé - THG - OC - active - 2018,12,26
 Pepper Potts - MCU - Canon - active - 2018,12,28
 Peeta Mellark - THG - Canon - inactive
+Percy Jackson - PJO - Canon - inactive
 Peter Parker - MCU - Canon - active - 2018,12,26
+Poseidon - PJO - Canon - inactive
 Primrose Everdeen - THG - Canon - active - 2018,12,26
 Rue - THG - Canon - active - 2018,12,26
+Sera Baker - HP - OC - active - 2019,1,2
 Shuri - MCU - Canon - active - 2019,1,2
 Steve Rogers - MCU - Canon - active - 2018,12,27
 Tandy Bowen - MCU - Canon - active - 2018,12,26
+Thalia Grace - PJO - Canon - inactive
 Theseus Scamander - HP - Canon - active - 2018,12,26
+Thor Odinson - MCU - Canon - active - 2019,1,19
+Tina Goldstein - HP - Canon - active - 2019,1,21
 Tony Stark - MCU - Canon - active - 2018,12,26
+Wanda Maximoff - MCU - Canon - active - 2019,1,15
+Ygraine Pendragon - Merlin - CMC - active - 2019,1,10
 Zoë Nightshade - PJO - Canon - active - 2019,1,2
 
