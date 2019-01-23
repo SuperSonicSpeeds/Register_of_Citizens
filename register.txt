@@ -1,3 +1,4 @@
+Albus Potter - HP - CMC - inactive
 Alexander Lightwood - SH - Canon - active - 2018,12,26
 Annabeth Chase - PJO - Canon - inactive
 Annie Cresta - THG - MC - inactive
@@ -5,6 +6,7 @@ Arthur Pendragon - Merlin - Canon - active - 2018,12,26
 Athena - PJO - Canon - active - 2019,1,2
 Ava Starr - Canon - active - 2019,1,5
 Bucky Barnes - MCU - Canon - active - 2018,12,26
+Cecily Herondale - TMI - Canon - active - 2019,1,22
 Cerdan - Merlin - MC - active - 2019,1,3
 Clary Fray - SH - Canon - active - 2019,1,7
 Clove - THG - Canon - active - 2019,1,2
@@ -12,6 +14,7 @@ Elisa Rosewood - THG - CMC - active - 2018,12,26
 Elizabetha Russo - SH - OC - active - 2019,1,17
 Freya - Merlin - MC - active - 2019,1,2
 Gamora - MCU - Canon - active - 2018,12,26
+Gwaine - Merlin - Canon - active - 2019,1,23
 Gwen - Merlin - Canon - active - 2019,1,3
 Harley Keener - MCU - MC - active - 2018,12,26
 Hazel Levesque - PJO - Canon - active - 2019,1,11
@@ -43,7 +46,7 @@ Nikita Moneiro - SH - OC - active - 2019,1,13
 Nita Daaé - THG - OC - active - 2018,12,26
 Pepper Potts - MCU - Canon - active - 2018,12,28
 Peeta Mellark - THG - Canon - inactive
-Percy Jackson - PJO - Canon - inactive
+Percy Jackson - PJO - Canon - active - 2019,1,22
 Peter Parker - MCU - Canon - active - 2018,12,26
 Poseidon - PJO - Canon - inactive
 Primrose Everdeen - THG - Canon - active - 2018,12,26
@@ -60,4 +63,3 @@ Tony Stark - MCU - Canon - active - 2018,12,26
 Wanda Maximoff - MCU - Canon - active - 2019,1,15
 Ygraine Pendragon - Merlin - CMC - active - 2019,1,10
 Zoë Nightshade - PJO - Canon - active - 2019,1,2
-
