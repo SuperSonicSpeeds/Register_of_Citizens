@@ -103,16 +103,23 @@ public class Archive {
         Scanner sc = new Scanner(System.in);
         String choice = "0";
         
-        while(!(choice.equals("2"))) {
+        while(!(choice.equals("4"))) {
             System.out.println("\n \n \nHi! I am your guide to reservations. An underling of the true Mage Book.");
-            System.out.println(" 1. Can you tell me if someone has been reserved?");
-            System.out.println(" 2. Thank you, most wise ancient artifact underling. That'll be all.\n \n \n");
+            System.out.println(" 1. Can you tell me if my favourite character has been reserved?");
+            System.out.println(" 2. I want to know everyone who has been reserved!");
+            System.out.println(" 3. What are my reservations?");
+            System.out.println(" 4. Thank you, most wise ancient artifact underling. That'll be all.\n \n \n");
 
             choice = sc.nextLine();
             if(choice.equals("1")) {
                 System.out.println("\nFull name please!\n");
                 find(sc.nextLine());
             }else if(choice.equals("2")) {
+                allReservations();
+            }else if(choice.equals("3")) {
+                System.out.println("Alright! What's your name?");
+                personReservation(sc.nextLine());
+            }else if(choice.equals("4")) {
                 System.out.println("Thank you for asking me! No, wait. Ahem. Until next time, friend! Did I do that right? Oh, you're already gone...");
             }else {
                 System.out.println("\nAsk sensibly or... begone(?). I'm a busy a-ancient artifact underling!");
@@ -189,5 +196,33 @@ public class Archive {
         } catch(InterruptedException ex) {
             Thread.currentThread().interrupt();
         }
+    }
+    
+    public void allReservations() {
+        for(Person P: reservations) {
+            System.out.println(P.name + " from " + P.fandom + " is reserved by " + P.human + ".");
+        }
+        
+    }
+    
+    public void personReservation(String name) {
+        boolean found = false;
+        for(Person P: reservations) {
+            if(P.human.equalsIgnoreCase(name)) {
+                found = true;
+                System.out.println("\n" + name + " has reserved:");
+                break;
+            }
+        }if(found) {
+            for(Person P: reservations) {
+                if(P.human.equalsIgnoreCase(name)) {
+                    System.out.println(P.name + " from " + P.fandom + ".");
+                }
+            }
+            System.out.println("\nThat's it!");
+        } else {
+            System.out.println("\nThere are no reservations under " + name + ". Are you sure you wrote it right?");
+        }
+        
     }
 }
