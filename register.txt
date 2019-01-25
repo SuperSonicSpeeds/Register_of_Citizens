@@ -4,7 +4,8 @@ Annabeth Chase - PJO - Canon - inactive
 Annie Cresta - THG - MC - inactive
 Arthur Pendragon - Merlin - Canon - active - 2018,12,26
 Athena - PJO - Canon - active - 2019,1,2
-Ava Starr - Canon - active - 2019,1,5
+Ava Starr - MCU - Canon - active - 2019,1,5
+Barry Allen - DCTV, The Flash - Canon - inactive
 Bucky Barnes - MCU - Canon - active - 2018,12,26
 Cato - THG - MC - inactive
 Cecily Herondale - TMI - Canon - active - 2019,1,22
@@ -21,8 +22,10 @@ Harley Keener - MCU - MC - active - 2018,12,26
 Hazel Levesque - PJO - Canon - active - 2019,1,11
 Hermione Granger - HP - Canon - inactive
 Hestia - PJO - MC - inactive
+Iris West Allen - DCTV, The Flash - Canon - inactive
 Isabelle Lightwood - SH - Canon - active - 2018,12,26
 Jace Herondale - SH - Canon - active - 2019,1,21
+Jack Frost - RoTG - Canon - inactive
 Jessica Jones - MCU - Canon - inactive
 Kara - Merlin - Canon - active - 2019,1,7
 Katniss Everdeen - Canon - active - 2019,1,19
@@ -63,6 +66,7 @@ Thor Odinson - MCU - Canon - active - 2019,1,19
 Tina Goldstein - HP - Canon - active - 2019,1,21
 Tony Stark - MCU - Canon - active - 2018,12,26
 Wanda Maximoff - MCU - Canon - active - 2019,1,15
+William Clayton - DCTV, The Flash - inactive
 Ygraine Pendragon - Merlin - CMC - active - 2019,1,10
 Zoë Nightshade - PJO - Canon - inactive
 
