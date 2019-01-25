@@ -29,4 +29,4 @@ Features to add eventually:
 
 -Find out if/when/how many times a requested character has been in the world before.
 
--Seperate Mage Books for characters and role-players alike.
+-Separate Mage Books for characters and role-players alike.
