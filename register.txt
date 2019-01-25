@@ -66,7 +66,7 @@ Thor Odinson - MCU - Canon - active - 2019,1,19
 Tina Goldstein - HP - Canon - active - 2019,1,21
 Tony Stark - MCU - Canon - active - 2018,12,26
 Wanda Maximoff - MCU - Canon - active - 2019,1,15
-William Clayton - DCTV, The Flash - inactive
+William Clayton - DCTV, Arrow - inactive
 Ygraine Pendragon - Merlin - CMC - active - 2019,1,10
 Zoë Nightshade - PJO - Canon - inactive
 
