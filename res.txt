@@ -6,7 +6,6 @@ Spencer Reid - Criminal Minds - Allison
 Oliver Queen - DCTV, Arrow - Liza
 Sam Arias - DCTV, Supergirl - Liza
 Lena Luthor - DCTV, Supergirl - Pip
-Iris West-Allen - DCTV, The Flash - Ren
 Sally Sparrow - Doctor Who - Amy
 Amy Pond - Doctor Who - Amy
 Tenth Doctor - Doctor Who - Lilly
@@ -29,8 +28,6 @@ Lucy Pevensie - Narnia - Madi
 Edmund Pevensie - Narnia - Saum
 Hannah Marin - Pretty Little Liars - Allison
 Pitch Black - Rise of the Guardians - Kayla
-Jack Frost - Rise of the Guardians - Ren
-Mary Overland - Rise of the Guardians - Saum
 Neo - RWBY - Kayla
 Emerald Sustrai - RWBY - Saph
 Anthea Johnson - Sherlock - Kayla
