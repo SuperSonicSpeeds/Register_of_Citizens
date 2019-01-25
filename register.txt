@@ -62,6 +62,7 @@ Shuri - MCU - Canon - active - 2019,1,2
 Steve Rogers - MCU - Canon - active - 2018,12,27
 Tandy Bowen - MCU - Canon - active - 2018,12,26
 Thalia Grace - PJO - Canon - inactive
+Thea Queen - DCTV, Arrow - Canon - inactive
 Theseus Scamander - HP - Canon - active - 2018,12,26
 Thor Odinson - MCU - Canon - active - 2019,1,19
 Tina Goldstein - HP - Canon - active - 2019,1,21
