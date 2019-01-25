@@ -55,6 +55,7 @@ Percy Jackson - PJO - Canon - active - 2019,1,22
 Peter Parker - MCU - Canon - active - 2018,12,26
 Poseidon - PJO - Canon - inactive
 Primrose Everdeen - THG - Canon - active - 2018,12,26
+Rose Overland - RoTG - CMC - inactive
 Rue - THG - Canon - active - 2018,12,26
 Sera Baker - HP - OC - active - 2019,1,2
 Shuri - MCU - Canon - active - 2019,1,2
