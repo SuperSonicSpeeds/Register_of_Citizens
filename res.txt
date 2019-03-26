@@ -3,17 +3,12 @@ Moana - Animation Disney - Saum
 Zuko - Avatar The Last Airbender - Margie 
 Azula - Avatar The Last Airbender - Saph
 Spencer Reid - Criminal Minds - Allison
-Oliver Queen - DCTV, Arrow - Liza
-Sam Arias - DCTV, Supergirl - Liza
-Lena Luthor - DCTV, Supergirl - Pip
 Sally Sparrow - Doctor Who - Amy
 Amy Pond - Doctor Who - Amy
 Tenth Doctor - Doctor Who - Lilly
 Christina de Souza - Doctor Who - Lya
 Eleventh Doctor - Doctor Who - Lya
 Rose Tyler - Doctor Who - Madi
-Thirteenth Doctor - Doctor Who - Steph
-Tentoo - Doctor Who - Amy
 Owen Harper - Doctor Who, Torchwood - Saum
 Ender Wiggin - Ender's Game - Lilly
 Olivia Dunham - Fringe - Lilly
@@ -21,8 +16,6 @@ Mike Warren - Graceland - Ren
 Mabel Pines - Gravity Falls - Kayla
 Mattie Hawkins - Humans - Lya
 Elva - Inheritance Cycle - Lya
-Miles Morales - Into the Spiderverse - Lilly
-Captain Marvel - MCU - Steph
 Adriene Agreste - Miraculous Ladybug - Ren
 Marinette Dupain Cheng - Miraculous Ladybug - Madi
 Lucy Pevensie - Narnia - Madi
@@ -36,4 +29,4 @@ Rey - Star Wars - Allison
 Jack Kline - Supernatural - Lya
 Sam Winchester - Supernatural - Amy
 Dean Winchester - Supernatural - Ash
-Kitty Pride - X-Men - Lilly
+Kitty Pryde - X-Men - Lilly
